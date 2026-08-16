@@ -1,0 +1,94 @@
+# Solar-Cycle Modelling: Nonlinearities and Quenching Literature Database
+
+**Last updated:** 2026-08-16  
+**Scope:** published research on nonlinear regulation, saturation, and quenching in solar-cycle models.
+
+> **Coverage:** living historical backfill. Initial pass: **42 peer-reviewed research papers (1978–2026)** plus key reviews. This is designed to grow: newly discovered older papers are inserted historically, and new papers are added by the daily literature watch.
+
+**Deduplication:** DOI is the primary identifier; if absent, use normalized title + year. A journal version replaces its preprint entry rather than creating a duplicate.
+
+## Published research papers
+
+| Year | Paper | Authors | Nonlinearity / quenching mechanism | Model / evidence | Venue | DOI / record | Class |
+|---:|---|---|---|---|---|---|---|
+| 2026 | Narrowing the solar surface flux transport parameter space through nonlinear feedbacks | M. Alhosani; M. H. Talafha; M. A. Al-Wardat | TQ; LQ; flux decay | 1D SFT parameter-space study | Astronomy & Astrophysics | [10.1051/0004-6361/202658877](https://doi.org/10.1051/0004-6361/202658877) | CORE |
+| 2026 | Investigating Nonlinear Quenching Effects on Polar Field Buildup in the Sun Using Physics-Informed Neural Networks | J. J. Athalathil; M. H. Talafha; B. Vaidya | TQ; LQ | PINN solution of SFT | The Astrophysical Journal 1000, 79 | [10.3847/1538-4357/ae469c](https://doi.org/10.3847/1538-4357/ae469c) | CORE |
+| 2026 | Neural differential equations for the solar dynamo | E. Illarionov; V. Kisielius; R. Stepanov; K. M. Kuzanyan | alpha-quenching / data-driven closure | Low-mode dynamo + neural differential equation | Physical Review E 113, L053202 | [10.1103/dpsp-bwkh](https://doi.org/10.1103/dpsp-bwkh) | CORE |
+| 2025 | Modelling the Solar Cycle Nonlinearities into the Algebraic Approach | M. H. Talafha | TQ; LQ | Algebraic active-region dipole model | Solar Physics 300, 157 | [10.1007/s11207-025-02574-1](https://doi.org/10.1007/s11207-025-02574-1) | CORE |
+| 2025 | Latitude Quenching Nonlinearity in the Solar Dynamo | A. R. Yeates; L. Bertello; Alexander A. Pevtsov; Alexei A. Pevtsov | LQ vs TQ | Historical plage data + optimized SFT | The Astrophysical Journal 978, 147 | [10.3847/1538-4357/ad99d0](https://doi.org/10.3847/1538-4357/ad99d0) | CORE |
+| 2025 | Effect of Nonlinear Surface Inflows into Activity Belts on Solar Cycle Modulation | M. H. Talafha; K. Petrovay; A. Opitz | Activity-belt inflows; TQ; LQ | 1D SFT | Solar Physics 300, 57 | [10.1007/s11207-025-02466-4](https://doi.org/10.1007/s11207-025-02466-4) | CORE |
+| 2024 | Inflows Towards Bipolar Magnetic Active Regions and Their Nonlinear Impact on a Three-Dimensional Babcock–Leighton Solar Dynamo Model | K. Teweldebirhan; M. Miesch; S. Gibson | BMR inflows | 3D STABLE Babcock–Leighton dynamo | Solar Physics 299, 42 | [10.1007/s11207-024-02288-w](https://doi.org/10.1007/s11207-024-02288-w) | CORE |
+| 2023 | Nonlinearity, time delay, and Grand Maxima in supercritical Babcock-Leighton dynamos | C. Thibeault; L. Miara; P. Charbonneau | Threshold nonlinearity; time delay | 0D delay dynamo + 2D Babcock–Leighton model | Journal of Space Weather and Space Climate 13, 32 | [10.1051/swsc/2023029](https://doi.org/10.1051/swsc/2023029) | CORE |
+| 2023 | Three-dimensional non-kinematic simulation of the post-emergence evolution of bipolar magnetic regions and the Babcock-Leighton dynamo of the Sun | Y. Bekki; R. H. Cameron | Lorentz-force feedback on flows | 3D non-kinematic Babcock–Leighton dynamo | Astronomy & Astrophysics 670, A101 | [10.1051/0004-6361/202244990](https://doi.org/10.1051/0004-6361/202244990) | CORE |
+| 2022 | Toroidal Flux Loss due to Flux Emergence Explains why Solar Cycles Rise Differently but Decay in a Similar Way | A. Biswas; B. B. Karak; R. Cameron | Toroidal flux loss / magnetic buoyancy | Babcock–Leighton/flux-emergence dynamo modeling | Physical Review Letters 129, 241102 | [10.1103/PhysRevLett.129.241102](https://doi.org/10.1103/PhysRevLett.129.241102) | CORE |
+| 2022 | Role of observable nonlinearities in solar cycle modulation | M. Talafha; M. Nagy; A. Lemerle; K. Petrovay | TQ; LQ | SFT grid + 2x2D dynamo | Astronomy & Astrophysics 660, A92 | [10.1051/0004-6361/202142572](https://doi.org/10.1051/0004-6361/202142572) | CORE |
+| 2021 | Sunspot tilt angles revisited: Dependence on the solar cycle strength | S. Jiao; J. Jiang; Z.-F. Wang | Observational tilt quenching constraint | Sunspot observations | Astronomy & Astrophysics 653, A27 | [10.1051/0004-6361/202141215](https://doi.org/10.1051/0004-6361/202141215) | CORE |
+| 2020 | Impact of nonlinear surface inflows into activity belts on the solar dynamo | M. Nagy; A. Lemerle; P. Charbonneau | Activity-belt inflows | 2x2D Babcock–Leighton dynamo | Journal of Space Weather and Space Climate 10, 62 | [10.1051/swsc/2020064](https://doi.org/10.1051/swsc/2020064) | CORE |
+| 2020 | Nonlinear Mechanisms that Regulate the Solar Cycle Amplitude | J. Jiang | LQ; TQ / BMR-source nonlinearities | SFT / Babcock–Leighton analysis | The Astrophysical Journal 900, 19 | [10.3847/1538-4357/abaa4b](https://doi.org/10.3847/1538-4357/abaa4b) | CORE |
+| 2020 | Dynamo Saturation through the Latitudinal Variation of Bipolar Magnetic Regions in the Sun | B. B. Karak | Latitude quenching | 3D Babcock–Leighton dynamo | The Astrophysical Journal Letters 901, L35 | [10.3847/2041-8213/abb93f](https://doi.org/10.3847/2041-8213/abb93f) | CORE |
+| 2020 | Magnetic Field Dependence of Bipolar Magnetic Region Tilts on the Sun: Indication of Tilt Quenching | B. K. Jha; B. B. Karak; S. Mandal; D. Banerjee | Tilt quenching | Sunspot/BMR observations | The Astrophysical Journal Letters 889, L19 | [10.3847/2041-8213/ab665c](https://doi.org/10.3847/2041-8213/ab665c) | CORE |
+| 2018 | Turbulent transport coefficients in spherical wedge dynamo simulations of solar-like stars | J. Warnecke; M. Rheinhardt; S. Tuomisto; P. J. Käpylä; M. J. Käpylä; A. Brandenburg | alpha-/transport-coefficient quenching | Global convective MHD + test-field method | Astronomy & Astrophysics 609, A51 | [10.1051/0004-6361/201628136](https://doi.org/10.1051/0004-6361/201628136) | SUPPORTING |
+| 2017 | Inflows towards active regions and the modulation of the solar cycle: a parameter study | A. Martin-Belda; R. H. Cameron | Active-region inflows | SFT | Astronomy & Astrophysics 597, A21 | [10.1051/0004-6361/201629061](https://doi.org/10.1051/0004-6361/201629061) | CORE |
+| 2017 | Solar Cycle Variability Induced by Tilt Angle Scatter in a Babcock–Leighton Solar Dynamo Model | B. B. Karak; M. Miesch | Tilt quenching + stochastic tilt scatter | 3D STABLE Babcock–Leighton dynamo | The Astrophysical Journal 847, 69 | [10.3847/1538-4357/aa8636](https://doi.org/10.3847/1538-4357/aa8636) | CORE |
+| 2016 | Surface flux transport simulations: Effect of inflows toward active regions and random velocities on the evolution of the Sun's large-scale magnetic field | A. Martin-Belda; R. H. Cameron | Active-region inflows | SFT | Astronomy & Astrophysics 586, A73 | [10.1051/0004-6361/201527213](https://doi.org/10.1051/0004-6361/201527213) | CORE |
+| 2016 | Characterisation of the turbulent electromotive force and its magnetically-mediated quenching in a global EULAG-MHD simulation of solar convection | C. Simard; P. Charbonneau; C. Dubé | alpha-quenching; turbulent-diffusivity quenching | Global EULAG-MHD solar convection simulation | Advances in Space Research 58, 1522–1537 | [10.1016/j.asr.2016.03.041](https://doi.org/10.1016/j.asr.2016.03.041) | CORE |
+| 2014 | Quenching and anisotropy of hydromagnetic turbulent transport | B. B. Karak; M. Rheinhardt; A. Brandenburg; P. J. Käpylä; M. J. Käpylä | alpha-/diffusivity quenching | MHD turbulence / test-field calculations | The Astrophysical Journal 795, 16 | [10.1088/0004-637X/795/1/16](https://doi.org/10.1088/0004-637X/795/1/16) | SUPPORTING |
+| 2013 | Helicity conservation in nonlinear mean-field solar dynamo | V. V. Pipin; D. D. Sokoloff; H. Zhang; K. M. Kuzanyan | Dynamical alpha-quenching; magnetic helicity | Axisymmetric mean-field solar dynamo | The Astrophysical Journal 768, 46 | [10.1088/0004-637X/768/1/46](https://doi.org/10.1088/0004-637X/768/1/46) | CORE |
+| 2012 | Are the strengths of solar cycles determined by converging flows towards the activity belts? | R. H. Cameron; M. Schüssler | Activity-belt inflows | SFT / observationally constrained flow perturbations | Astronomy & Astrophysics 548, A57 | [10.1051/0004-6361/201219914](https://doi.org/10.1051/0004-6361/201219914) | CORE |
+| 2012 | Quenching of meridional circulation in flux transport dynamo models | B. B. Karak; A. R. Choudhuri | Meridional-flow quenching | Flux-transport dynamo | Solar Physics 278, 137–148 | [10.1007/s11207-012-9928-5](https://doi.org/10.1007/s11207-012-9928-5) | CORE |
+| 2011 | Magnetic helicity fluxes in interface and flux transport dynamos | P. Chatterjee; G. Guerrero; A. Brandenburg | Dynamical alpha-quenching; helicity flux | Interface + flux-transport dynamos | Astronomy & Astrophysics 525, A5 | [10.1051/0004-6361/201015073](https://doi.org/10.1051/0004-6361/201015073) | CORE |
+| 2011 | Magnetic Quenching of Turbulent Diffusivity: Reconciling Mixing-length Theory Estimates with Kinematic Dynamo Models of the Solar Cycle | A. Muñoz-Jaramillo; D. Nandy; P. C. H. Martens | turbulent-diffusivity quenching | Kinematic solar dynamo with dynamically quenched diffusivity | The Astrophysical Journal Letters 727, L23 | [10.1088/2041-8205/727/1/L23](https://doi.org/10.1088/2041-8205/727/1/L23) | CORE |
+| 2011 | Alleviation of catastrophic quenching in solar dynamo model with nonlocal alpha-effect | L. L. Kitchatinov; S. V. Olemskoy | catastrophic alpha-quenching; nonlocal Babcock–Leighton alpha | Mean-field solar dynamo with helicity equation and diamagnetic pumping | Astronomische Nachrichten 332, 496–501 | [10.1002/asna.201011549](https://doi.org/10.1002/asna.201011549) | CORE |
+| 2011 | On the Mode of Dynamo Action in a Global Large-Eddy Simulation of Solar Convection | É. Racine; P. Charbonneau; M. Ghizaru; A. Bouchat; P. K. Smolarkiewicz | Lorentz-force / differential-rotation quenching | Global EULAG-MHD convection dynamo | The Astrophysical Journal 735, 46 | [10.1088/0004-637X/735/1/46](https://doi.org/10.1088/0004-637X/735/1/46) | CORE |
+| 2010 | Surface Flux Transport Modeling for Solar Cycles 15–21: Effects of Cycle-Dependent Tilt Angles of Sunspot Groups | R. H. Cameron; J. Jiang; D. Schmitt; M. Schüssler | Tilt quenching / cycle-dependent Joy's law | SFT | The Astrophysical Journal 719, 264–270 | [10.1088/0004-637X/719/1/264](https://doi.org/10.1088/0004-637X/719/1/264) | CORE |
+| 2010 | Sunspot group tilt angles and the strength of the solar cycle | M. Dasi-Espuig; S. K. Solanki; N. A. Krivova; R. Cameron; T. Peñuela | Observational tilt quenching constraint | Historical sunspot observations | Astronomy & Astrophysics 518, A7 | [10.1051/0004-6361/201014301](https://doi.org/10.1051/0004-6361/201014301) | CORE |
+| 2010 | The Effect of Activity-related Meridional Flow Modulation on the Strength of the Solar Polar Magnetic Field | J. Jiang; E. Işık; R. H. Cameron; D. Schmitt; M. Schüssler | Activity-related inflows / meridional-flow modulation | SFT | The Astrophysical Journal 717, 597–602 | [10.1088/0004-637X/717/1/597](https://doi.org/10.1088/0004-637X/717/1/597) | CORE |
+| 2009 | Small-scale magnetic helicity losses from a mean-field dynamo | A. Brandenburg; S. Candelaresi; P. Chatterjee | Dynamical alpha-quenching; helicity loss | Mean-field dynamo | Monthly Notices of the Royal Astronomical Society 398, 1414–1422 | [10.1111/j.1365-2966.2009.15188.x](https://doi.org/10.1111/j.1365-2966.2009.15188.x) | FOUNDATIONAL |
+| 2006 | Flux-Transport Dynamos with Lorentz Force Feedback on Differential Rotation and Meridional Flow: Saturation Mechanism and Torsional Oscillations | M. Rempel | Lorentz-force feedback; transport-coefficient quenching | Dynamic flux-transport dynamo | The Astrophysical Journal 647, 662–675 | [10.1086/505170](https://doi.org/10.1086/505170) | CORE |
+| 2006 | A time delay model for solar and stellar dynamos | A. L. Wilmot-Smith; D. Nandy; G. Hornig; P. C. H. Martens | Threshold nonlinearity; time delay | Low-order Babcock–Leighton delay dynamo | The Astrophysical Journal 652, 696–708 | [10.1086/508013](https://doi.org/10.1086/508013) | FOUNDATIONAL |
+| 2004 | Catastrophic alpha quenching alleviated by helicity flux and shear | A. Brandenburg; C. Sandin | Alpha-quenching; current-helicity flux | Solar-like shear turbulence simulation | Astronomy & Astrophysics 427, 13–21 | [10.1051/0004-6361:20047086](https://doi.org/10.1051/0004-6361:20047086) | FOUNDATIONAL |
+| 2003 | Magnetic helicity evolution during the solar activity cycle: Observations and dynamo theory | N. Kleeorin; K. Kuzanyan; D. Moss; I. Rogachevskii; D. Sokoloff; H. Zhang | Magnetic-helicity / dynamical alpha-quenching | Parker-type solar dynamo + helicity observations | Astronomy & Astrophysics 409, 1097–1105 | [10.1051/0004-6361:20031126](https://doi.org/10.1051/0004-6361:20031126) | CORE |
+| 2000 | Towards a model for the solar dynamo | D. Moss; J. M. Brooke | Alpha/Lambda quenching; Lorentz-force feedback | Nonlinear mean-field solar dynamo | Monthly Notices of the Royal Astronomical Society 315, 521–533 | [10.1046/j.1365-8711.2000.03452.x](https://doi.org/10.1046/j.1365-8711.2000.03452.x) | FOUNDATIONAL |
+| 1997 | Properties of nonlinear dynamo waves | S. M. Tobias | Diffusivity/alpha quenching; Lorentz feedback | Nonlinear interface-type dynamo | Geophysical & Astrophysical Fluid Dynamics 86, 287–343 | [10.1080/03091929708245465](https://doi.org/10.1080/03091929708245465) | FOUNDATIONAL |
+| 1991 | An alpha-Omega dynamo with order and chaos | S. Schmalz; M. Stix | Dynamical alpha-quenching | Low-order/spectral alpha-Omega solar dynamo | Astronomy & Astrophysics 245, 654–661 | [ADS](https://ui.adsabs.harvard.edu/abs/1991A&A...245..654S/abstract) | FOUNDATIONAL |
+| 1989 | Non-linear dynamos. I. One-dimensional model of a thin layer dynamo | D. Schmitt; M. Schüssler | Alpha-quenching; buoyant flux loss | Thin-layer solar dynamo | Astronomy & Astrophysics 223, 343–351 | [ADS](https://ui.adsabs.harvard.edu/abs/1989A&A...223..343S/abstract) | FOUNDATIONAL |
+| 1978 | Nonlinear astrophysical dynamos: multiple-period dynamo wave oscillations and long-term modulations of the 22 year solar cycle | H. Yoshimura | Nonlinear feedback / long-term modulation | Nonlinear solar dynamo | The Astrophysical Journal 226, 706–719 | [10.1086/156653](https://doi.org/10.1086/156653) | FOUNDATIONAL |
+
+## Key reviews and synthesis papers
+
+| Year | Review | Venue | DOI |
+|---:|---|---|---|
+| 2025 | Connecting mean-field theory with dynamo simulations | Living Reviews in Solar Physics 22, 3 | [10.1007/s41116-025-00042-3](https://doi.org/10.1007/s41116-025-00042-3) |
+| 2023 | Models for the long-term variations of solar activity | Living Reviews in Solar Physics 20, 3 | [10.1007/s41116-023-00037-y](https://doi.org/10.1007/s41116-023-00037-y) |
+| 2023 | Surface Flux Transport on the Sun | Space Science Reviews | [10.1007/s11214-023-00978-8](https://doi.org/10.1007/s11214-023-00978-8) |
+| 2023 | Mean Field Models of Flux Transport Dynamo and Meridional Circulation in the Sun and Stars | Space Science Reviews 219, 39 | [10.1007/s11214-023-00982-y](https://doi.org/10.1007/s11214-023-00982-y) |
+| 2023 | Observationally Guided Models for the Solar Dynamo and the Role of the Surface Field | Space Science Reviews | [10.1007/s11214-023-01004-7](https://doi.org/10.1007/s11214-023-01004-7) |
+| 2020 | Dynamo models of the solar cycle | Living Reviews in Solar Physics 17, 4 | [10.1007/s41116-020-00025-6](https://doi.org/10.1007/s41116-020-00025-6) |
+| 2005 | Astrophysical magnetic fields and nonlinear dynamo theory | Physics Reports 417, 1–209 | [10.1016/j.physrep.2005.06.005](https://doi.org/10.1016/j.physrep.2005.06.005) |
+
+## Mechanism coverage
+
+Tilt quenching (TQ); latitude quenching (LQ); active-region/activity-belt inflows; meridional-circulation feedback; Lorentz-force backreaction; algebraic/dynamical/catastrophic alpha-quenching; magnetic-helicity conservation/flux; turbulent-diffusivity and transport-coefficient quenching; magnetic buoyancy/toroidal-flux loss; nonlinear threshold/time-delay effects; stochastic–nonlinear interactions; modulation, parity, intermittency, and grand minima/maxima.
+
+## Preprints / awaiting version of record
+
+| First posted | Paper | Authors | Mechanism | Identifier / status |
+|---:|---|---|---|---|
+| — | No unpaired preprints currently recorded in this backfill. | — | — | Add only if no peer-reviewed version exists. |
+
+## Daily maintenance rules
+
+1. Search both newly published work and older literature missing from this historical table.
+2. Search beyond the literal word *quenching*: include saturation, nonlinear feedback, helicity, Lorentz backreaction, inflows, flux loss, buoyancy, transport suppression, threshold effects, amplitude regulation, parity, intermittency, and grand minima/maxima.
+3. Read this table before adding anything and deduplicate by DOI (otherwise title + year).
+4. Put peer-reviewed journal articles in **Published research papers** and only unpaired manuscripts in **Preprints**.
+5. When a preprint becomes published, replace/update that record rather than duplicating it.
+6. Keep the table newest-to-oldest and insert newly discovered historical papers in their proper year.
+7. Use **CORE** for work directly about solar-cycle nonlinear regulation, **SUPPORTING** for closure/transport measurements, and **FOUNDATIONAL** for seminal nonlinear-dynamo work.
+8. Update the date and the update log after every change.
+
+## Update log
+
+| Date | Action | Notes |
+|---|---|---|
+| 2026-08-16 | Historical backfill created | 42 peer-reviewed research papers spanning 1978–2026 plus seven key reviews. |
