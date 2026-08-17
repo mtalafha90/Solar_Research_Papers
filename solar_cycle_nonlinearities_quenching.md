@@ -1,9 +1,9 @@
 # Solar-Cycle Modelling: Nonlinearities and Quenching Literature Database
 
-**Last updated:** 2026-08-16  
+**Last updated:** 2026-08-17  
 **Scope:** published research on nonlinear regulation, saturation, and quenching in solar-cycle models.
 
-> **Coverage:** living historical backfill. Current pass: **46 peer-reviewed research papers (1978–2026)** plus key reviews. This is designed to grow: newly discovered older papers are inserted historically, and new papers are added by the daily literature watch.
+> **Coverage:** living historical backfill. Current pass: **48 peer-reviewed research papers (1978–2026)** plus key reviews and one unpaired preprint. This is designed to grow: newly discovered older papers are inserted historically, and new papers are added by the daily literature watch.
 
 **Deduplication:** DOI is the primary identifier; if absent, use normalized title + year. A journal version replaces its preprint entry rather than creating a duplicate.
 
@@ -16,9 +16,11 @@
 | 2026 | Neural differential equations for the solar dynamo | E. Illarionov; V. Kisielius; R. Stepanov; K. M. Kuzanyan | alpha-quenching / data-driven closure | Low-mode dynamo + neural differential equation | Physical Review E 113, L053202 | [10.1103/dpsp-bwkh](https://doi.org/10.1103/dpsp-bwkh) | CORE |
 | 2025 | Modelling the Solar Cycle Nonlinearities into the Algebraic Approach | M. H. Talafha | TQ; LQ | Algebraic active-region dipole model | Solar Physics 300, 157 | [10.1007/s11207-025-02574-1](https://doi.org/10.1007/s11207-025-02574-1) | CORE |
 | 2025 | Role of Sunspot Latitude versus Tilt in Determining the Polar Field and Amplitude of the Next Cycle: Cause of the Weak Solar Cycle 20 | B. Dey; A. Sreedevi; B. B. Karak | TQ vs LQ; nonlinear poloidal-field generation | Observed sunspots + polar-field proxy | The Astrophysical Journal 993, 196 | [10.3847/1538-4357/ae0ccb](https://doi.org/10.3847/1538-4357/ae0ccb) | CORE |
-| 2025 | Latitude Quenching Nonlinearity in the Solar Dynamo | A. R. Yeates; L. Bertello; Alexander A. Pevtsov; Alexei A. Pevtsov | LQ vs TQ | Historical plage data + optimized SFT | The Astrophysical Journal 978, 147 | [10.3847/1538-4357/ad99d0](https://doi.org/10.3847/1538-4357/ad99d0) | CORE |
+| 2025 | Latitude Quenching Nonlinearity in the Solar Dynamo | A. R. Yeates; L. Bertello; A. A. Pevtsov | LQ vs TQ | Historical plage data + optimized SFT | The Astrophysical Journal 978, 147 | [10.3847/1538-4357/ad99d0](https://doi.org/10.3847/1538-4357/ad99d0) | CORE |
 | 2025 | Effect of Nonlinear Surface Inflows into Activity Belts on Solar Cycle Modulation | M. H. Talafha; K. Petrovay; A. Opitz | Activity-belt inflows; TQ; LQ | 1D SFT | Solar Physics 300, 57 | [10.1007/s11207-025-02466-4](https://doi.org/10.1007/s11207-025-02466-4) | CORE |
+| 2025 | Data-Driven Reconstruction of a Low-Order Dynamo Model from Sunspot Data | A. Bonanno; R. Arlt | Data-inferred cubic nonlinearity; novel magnetic quenching term | SINDy reconstruction from 275 years of sunspot data; low-order dynamo interpretation | Solar Physics 300, 116 | [10.1007/s11207-025-02531-y](https://doi.org/10.1007/s11207-025-02531-y) | CORE |
 | 2025 | Analyses of Features of Magnetic Cycles at Different Amounts of Dynamo Supercriticality: Solar Dynamo Is About Two Times Critical | S. Wavhal; P. Kumar; B. B. Karak | Nonlinear saturation; supercriticality; grand minima/maxima | Babcock–Leighton dynamo ensembles | Solar Physics 300, 21 | [10.1007/s11207-025-02428-w](https://doi.org/10.1007/s11207-025-02428-w) | CORE |
+| 2024 | Evaluating solar-like behavior in turbulent alpha and Babcock–Leighton mechanisms using non-kinematic nonlinear flux-transport solar dynamos | F. Inceoglu; R. Arlt | Lorentz-force saturation; nonlinear flow feedback; turbulent-alpha vs Babcock–Leighton source | 30,000-year non-kinematic nonlinear mean-field flux-transport dynamo | Scientific Reports 14, 23425 | [10.1038/s41598-024-74825-3](https://doi.org/10.1038/s41598-024-74825-3) | CORE |
 | 2024 | Inflows Towards Bipolar Magnetic Active Regions and Their Nonlinear Impact on a Three-Dimensional Babcock–Leighton Solar Dynamo Model | K. Teweldebirhan; M. Miesch; S. Gibson | BMR inflows | 3D STABLE Babcock–Leighton dynamo | Solar Physics 299, 42 | [10.1007/s11207-024-02288-w](https://doi.org/10.1007/s11207-024-02288-w) | CORE |
 | 2023 | Nonlinearity, time delay, and Grand Maxima in supercritical Babcock-Leighton dynamos | C. Thibeault; L. Miara; P. Charbonneau | Threshold nonlinearity; time delay | 0D delay dynamo + 2D Babcock–Leighton model | Journal of Space Weather and Space Climate 13, 32 | [10.1051/swsc/2023029](https://doi.org/10.1051/swsc/2023029) | CORE |
 | 2023 | Three-dimensional non-kinematic simulation of the post-emergence evolution of bipolar magnetic regions and the Babcock-Leighton dynamo of the Sun | Y. Bekki; R. H. Cameron | Lorentz-force feedback on flows | 3D non-kinematic Babcock–Leighton dynamo | Astronomy & Astrophysics 670, A101 | [10.1051/0004-6361/202244990](https://doi.org/10.1051/0004-6361/202244990) | CORE |
@@ -78,7 +80,7 @@ Tilt quenching (TQ); latitude quenching (LQ); active-region/activity-belt inflow
 
 | First posted | Paper | Authors | Mechanism | Identifier / status |
 |---:|---|---|---|---|
-| — | No unpaired preprints currently recorded in this backfill. | — | — | Add only if no peer-reviewed version exists. |
+| 2024-03-10 | Characterizing the solar cycle variability using nonlinear time series analysis at different amounts of dynamo supercriticality: Solar dynamo is not highly supercritical | A. Ghosh; P. Kumar; A. Prasad; B. B. Karak | Supercriticality; nonlinear/stochastic cycle memory; intermittency | [arXiv:2403.06176](https://arxiv.org/abs/2403.06176) — no peer-reviewed version verified in this pass |
 
 ## Daily maintenance rules
 
@@ -95,5 +97,6 @@ Tilt quenching (TQ); latitude quenching (LQ); active-region/activity-belt inflow
 
 | Date | Action | Notes |
 |---|---|---|
+| 2026-08-17 | Historical backfill expanded | Added Bonanno & Arlt (2025) data-driven cubic quenching, Inceoglu & Arlt (2024) non-kinematic Lorentz-feedback dynamo, and Ghosh et al. (2024) as an unpaired preprint; database now contains 48 peer-reviewed research papers plus one preprint. |
 | 2026-08-16 | Historical backfill expanded | Added Dey et al. (2025), Wavhal et al. (2025), McClintock & Norton (2013), and Guerrero et al. (2009); database now contains 46 peer-reviewed research papers. |
 | 2026-08-16 | Historical backfill created | 42 peer-reviewed research papers spanning 1978–2026 plus seven key reviews. |
