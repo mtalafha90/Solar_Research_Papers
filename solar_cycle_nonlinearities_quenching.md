@@ -1,9 +1,9 @@
 # Solar-Cycle Modelling: Nonlinearities and Quenching Literature Database
 
-**Last updated:** 2026-08-27  
+**Last updated:** 2026-08-28  
 **Scope:** published research on nonlinear regulation, saturation, and quenching in solar-cycle models.
 
-> **Coverage:** living historical backfill. Current pass: **85 peer-reviewed research papers (1978–2026)** plus key reviews and one unpaired preprint. This is designed to grow: newly discovered older papers are inserted historically, and new papers are added by the daily literature watch.
+> **Coverage:** living historical backfill. Current pass: **87 peer-reviewed research papers (1978–2026)** plus key reviews and one unpaired preprint. This is designed to grow: newly discovered older papers are inserted historically, and new papers are added by the daily literature watch.
 
 **Deduplication:** DOI is the primary identifier; if absent, use normalized title + year. A journal version replaces its preprint entry rather than creating a duplicate.
 
@@ -83,6 +83,7 @@
 | 2000 | Towards a model for the solar dynamo | D. Moss; J. M. Brooke | Alpha/Lambda quenching; Lorentz-force feedback | Nonlinear mean-field solar dynamo | Monthly Notices of the Royal Astronomical Society 315, 521–533 | [10.1046/j.1365-8711.2000.03452.x](https://doi.org/10.1046/j.1365-8711.2000.03452.x) | FOUNDATIONAL |
 | 1999 | The Maunder minimum as due to magnetic Lambda-quenching | M. Küker; R. Arlt; G. Rüdiger | Lambda-quenching; alpha-quenching; Malkus–Proctor/Lorentz feedback; parity modulation | 2D spherical nonlinear mean-field solar dynamo | Astronomy & Astrophysics 343, 977–982 | [ADS](https://ui.adsabs.harvard.edu/abs/1999A&A...343..977K/abstract) | FOUNDATIONAL |
 | 1999 | The Gleissberg cycle by a nonlinear alpha-Lambda dynamo | V. V. Pipin | Lambda-quenching / magnetic feedback on angular-momentum transport; alpha-quenching; long-term modulation | 2D spherical-shell nonlinear solar dynamo | Astronomy & Astrophysics 346, 295–302 | [ADS](https://ui.adsabs.harvard.edu/abs/1999A&A...346..295P/abstract) | FOUNDATIONAL |
+| 1998 | Modulation and symmetry changes in stellar dynamos | E. Knobloch; S. M. Tobias; N. O. Weiss | Nonlinear mode coupling; parity/symmetry changes; amplitude modulation; grand minima | Nonlinear dynamo PDEs interpreted with a sixth-order low-dimensional model | Monthly Notices of the Royal Astronomical Society 297, 1123–1138 | [10.1046/j.1365-8711.1998.01572.x](https://doi.org/10.1046/j.1365-8711.1998.01572.x) | FOUNDATIONAL |
 | 1997 | Simple solar dynamo models with variable alpha and omega effects | C. B. Roald; J. H. Thomas | Dynamical alpha-quenching vs omega/differential-rotation quenching; nonlinear bifurcations | Minimal radially averaged solar dynamo models with dynamically variable alpha or omega effects | Monthly Notices of the Royal Astronomical Society 288, 551–564 | [10.1093/mnras/288.3.551](https://doi.org/10.1093/mnras/288.3.551) | FOUNDATIONAL |
 | 1997 | Properties of nonlinear dynamo waves | S. M. Tobias | Diffusivity/alpha quenching; Lorentz feedback | Nonlinear interface-type dynamo | Geophysical & Astrophysical Fluid Dynamics 86, 287–343 | [10.1080/03091929708245465](https://doi.org/10.1080/03091929708245465) | FOUNDATIONAL |
 | 1996 | Stochastic and Nonlinear Fluctuations in a Mean Field Dynamo | M. A. J. H. Ossendrijver; P. Hoyng | Stochastic alpha fluctuations; nonlinear mode coupling/saturation; long-term variability | Axisymmetric mean-field solar dynamo with stochastic and nonlinear alpha fluctuations | Astronomy & Astrophysics 313, 959–970 | [ADS](https://ui.adsabs.harvard.edu/abs/1996A&A...313..959O/abstract) | FOUNDATIONAL |
@@ -95,6 +96,7 @@
 | 1994 | Dynamo models with magnetic diffusivity-quenching | G. Rüdiger; L. L. Kitchatinov; M. Küker; M. Schultz | Tensorial eta-quenching; nonlinear saturation; subcritical excitation | Plane and spherical mean-field dynamos including stellar geometry | Geophysical & Astrophysical Fluid Dynamics 78, 247–259 | [10.1080/03091929408226581](https://doi.org/10.1080/03091929408226581) | FOUNDATIONAL |
 | 1991 | An alpha-Omega dynamo with order and chaos | S. Schmalz; M. Stix | Dynamical alpha-quenching | Low-order/spectral alpha-Omega solar dynamo | Astronomy & Astrophysics 245, 654–661 | [ADS](https://ui.adsabs.harvard.edu/abs/1991A&A...245..654S/abstract) | FOUNDATIONAL |
 | 1989 | Non-linear dynamos. I. One-dimensional model of a thin layer dynamo | D. Schmitt; M. Schüssler | Alpha-quenching; buoyant flux loss | Thin-layer solar dynamo | Astronomy & Astrophysics 223, 343–351 | [ADS](https://ui.adsabs.harvard.edu/abs/1989A&A...223..343S/abstract) | FOUNDATIONAL |
+| 1981 | Properties of a nonlinear solar dynamo model | N. I. Kleeorin; A. A. Ruzmaikin | Magnetic backreaction on helicity; algebraic alpha-quenching; weakly nonlinear saturation | Thin-slab nonlinear solar dynamo; analytic amplitude/period relations and Landau equation near onset | Geophysical & Astrophysical Fluid Dynamics 17, 281–296 | [10.1080/03091928108243686](https://doi.org/10.1080/03091928108243686) | FOUNDATIONAL |
 | 1978 | Nonlinear astrophysical dynamos: multiple-period dynamo wave oscillations and long-term modulations of the 22 year solar cycle | H. Yoshimura | Nonlinear feedback / long-term modulation | Nonlinear solar dynamo | The Astrophysical Journal 226, 706–719 | [10.1086/156653](https://doi.org/10.1086/156653) | FOUNDATIONAL |
 
 ## Key reviews and synthesis papers
@@ -134,6 +136,7 @@ Tilt quenching (TQ); latitude quenching (LQ); active-region/activity-belt inflow
 
 | Date | Action | Notes |
 |---|---|---|
+| 2026-08-28 | Historical backfill expanded | Added Knobloch, Tobias & Weiss (1998) on nonlinear parity/amplitude modulation and grand minima, and Kleeorin & Ruzmaikin (1981) on magnetic-helicity/alpha backreaction and weakly nonlinear solar-dynamo saturation. Database now contains 87 peer-reviewed research papers plus one preprint. |
 | 2026-08-27 | Historical backfill expanded | Added Sokoloff et al. (2020) on nonlinear saturation and mid-term oscillations; Choudhuri & Karak (2012) on stochastic poloidal-source/meridional-flow triggering of grand minima; Ossendrijver (2000) on buoyancy-threshold grand minima; and Ossendrijver & Hoyng / Ossendrijver, Hoyng & Schmitt (1996) on stochastic/nonlinear alpha fluctuations, mode excitation, and dynamo memory. Database now contains 85 peer-reviewed research papers plus one preprint. |
 | 2026-08-26 | Historical backfill expanded | Added Usoskin, Sokoloff & Moss (2009) and Moss et al. (2008) on stochastic grand-minimum generation with algebraic alpha saturation; Roald & Thomas (1997) comparing dynamical alpha- and omega-quenching; and Kleeorin, Rogachevskii & Ruzmaikin (1994) on nonlinear mean-field saturation. Database now contains 80 peer-reviewed research papers plus one preprint. |
 | 2026-08-25 | New publication added | Added Cavus (2026), MNRAS stag1482, on weakly nonlinear stochastic Babcock–Leighton grand-minimum onset/termination statistics near a Hopf bifurcation. Database now contains 76 peer-reviewed research papers plus one preprint. |
